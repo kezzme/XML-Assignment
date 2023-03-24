@@ -1,0 +1,42 @@
+<toys>
+  <CATEGORY>Action Figures</CATEGORY>
+    <BRAND>Hasbro</BRAND>
+      <COUNTRY>United States</COUNTRY>
+        <PRODUCT>Transformers
+          <NAME>Optimus Prime</NAME>
+          <PRICE>49.99</PRICE>
+          <DESCRIPTION>Transformers action figure toy set</DESCRIPTION>
+        </PRODUCT>
+  <CATEGORY>Building Sets</CATEGORY>
+    <BRAND>LEGO</BRAND>
+      <COUNTRY>Denmark</COUNTRY>
+        <PRODUCT>Star Wars
+          <NAME>Yoda</NAME>
+          <PRICE>79.99</PRICE>
+          <DESCRIPTION>LEGO Star Wars building set.</DESCRIPTION>
+        </PRODUCT>
+  <CATEGORY>Dolls</CATEGORY>
+    <BRAND>Barbie</BRAND>
+      <COUNTRY>United Kingdom</COUNTRY>
+        <PRODUCT>Fashionista
+          <NAME>Barbie</NAME>
+          <PRICE>24.99</PRICE>
+          <DESCRIPTION>Barbie Fashionista doll with various clothing and accessories</DESCRIPTION>
+        </PRODUCT>
+  <CATEGORY>Board Games</CATEGORY>
+    <BRAND>Hasbro</BRAND>
+      <COUNTRY>United States</COUNTRY>
+        <PRODUCT>Monopoly
+          <NAME>Monopoly Board Game</NAME>
+          <PRICE>19.99</PRICE>
+          <DESCRIPTION>Classic Monopoly board game</DESCRIPTION>
+        </PRODUCT>
+  <CATEGORY>Outdoor Toys</CATEGORY>
+    <BRAND>Nerf</BRAND>
+      <COUNTRY>United States</COUNTRY>
+        <PRODUCT>N-Strike Elite
+          <NAME>Nerf Gun</NAME>
+          <PRICE>19.99</PRICE>
+          <DESCRIPTION>Nerf N-Strike Elite blaster</DESCRIPTION>
+        </PRODUCT>
+</toys>
