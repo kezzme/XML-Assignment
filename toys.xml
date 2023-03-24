@@ -1,42 +1,49 @@
+<?xml version ="1.0" encoding="UTF-8"?>
 <toys>
   <CATEGORY>Action Figures</CATEGORY>
     <BRAND>Hasbro</BRAND>
       <COUNTRY>United States</COUNTRY>
-        <PRODUCT>Transformers
+        <PRODUCT>Transformers</PRODUCT>
           <NAME>Optimus Prime</NAME>
-          <PRICE>49.99</PRICE>
-          <DESCRIPTION>Transformers action figure toy set</DESCRIPTION>
-        </PRODUCT>
+            <VERSION>Optimus Prime G1</VERSION>
+                <PRICE>$282.56</PRICE>
+                <RELEASE_DATE>1984</RELEASE_DATE>
+                <DESCRIPTION>Transformers action figure toy set.</DESCRIPTION>
   <CATEGORY>Building Sets</CATEGORY>
     <BRAND>LEGO</BRAND>
       <COUNTRY>Denmark</COUNTRY>
-        <PRODUCT>Star Wars
+        <PRODUCT>Star Wars </PRODUCT>
           <NAME>Yoda</NAME>
-          <PRICE>79.99</PRICE>
-          <DESCRIPTION>LEGO Star Wars building set.</DESCRIPTION>
-        </PRODUCT>
+           <VERSION>Baby Yoda</VERSION>
+                <PRICE>$89.99</PRICE>
+                <RELEASE_DATE>2021</RELEASE_DATE>
+                <DESCRIPTION>The cutest character in the galaxy has posable head, mouth and ears for a range of lovable expressions, bringing it to life when playing!</DESCRIPTION>
   <CATEGORY>Dolls</CATEGORY>
     <BRAND>Barbie</BRAND>
       <COUNTRY>United Kingdom</COUNTRY>
-        <PRODUCT>Fashionista
-          <NAME>Barbie</NAME>
-          <PRICE>24.99</PRICE>
-          <DESCRIPTION>Barbie Fashionista doll with various clothing and accessories</DESCRIPTION>
-        </PRODUCT>
+        <PRODUCT>Barbie Fashionistas Doll </PRODUCT>
+          <VERSION>Fashionista 2021</VERSION>
+            <NAME>Barbie</NAME>
+                <PRICE>$24.99</PRICE>
+                <RELEASE_DATE>2021</RELEASE_DATE>
+                <DESCRIPTION>Tan skin, wavy blonde hair, sunglasses, blue and white romper, and white shoes.</DESCRIPTION>
   <CATEGORY>Board Games</CATEGORY>
     <BRAND>Hasbro</BRAND>
       <COUNTRY>United States</COUNTRY>
-        <PRODUCT>Monopoly
-          <NAME>Monopoly Board Game</NAME>
-          <PRICE>19.99</PRICE>
-          <DESCRIPTION>Classic Monopoly board game</DESCRIPTION>
-        </PRODUCT>
+        <PRODUCT>Monopoly </PRODUCT>
+          <VERSION>Ultimate Banking Edition</VERSION>
+            <NAME>Monopoly Board Game</NAME>
+                <PRICE>$19.99</PRICE>
+                <RELEASE_DATE>2020</RELEASE_DATE>
+                <DESCRIPTION>Introducing a modern banking version of the Monopoly game: the Ultimate Banking Edition.  In this edition, Monopoly money is no more!
+</DESCRIPTION>
   <CATEGORY>Outdoor Toys</CATEGORY>
     <BRAND>Nerf</BRAND>
       <COUNTRY>United States</COUNTRY>
-        <PRODUCT>N-Strike Elite
-          <NAME>Nerf Gun</NAME>
-          <PRICE>19.99</PRICE>
-          <DESCRIPTION>Nerf N-Strike Elite blaster</DESCRIPTION>
-        </PRODUCT>
+        <PRODUCT>Nerf Gun</PRODUCT>
+          <VERSION>N-Strike Mega</VERSION>
+            <NAME>N-Strike</NAME>
+                <PRICE>$63.48</PRICE>
+                <RELEASE_DATE>2016</RELEASE_DATE>
+                <DESCRIPTION>N-Strike Mega, formally N-Strike Mega Series, is a line of blasters which fire red-colored ammunition larger than most darts in both size and diameter.</DESCRIPTION>
 </toys>

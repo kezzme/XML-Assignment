@@ -39,7 +39,9 @@
                     <th>BRAND</th>
                     <th>COUNTRY</th>
                     <th>PRODUCT</th>
-                    <th>DESCRIPTION</th>
+                    <th>NAME</th>
+                    <th>VERSION</th>
+                    <th>DETAILS</th>
                 </tr>
                 
             `;
@@ -49,7 +51,9 @@
             var country = xmlDoc.getElementsByTagName("COUNTRY");
             var product = xmlDoc.getElementsByTagName("PRODUCT");
             var name = xmlDoc.getElementsByTagName("NAME");
+            var version = xmlDoc.getElementsByTagName("VERSION");
             var price = xmlDoc.getElementsByTagName("PRICE");
+            var release_date = xmlDoc.getElementsByTagName("RELEASE_DATE");
             var description = xmlDoc.getElementsByTagName("DESCRIPTION");
 
             for (i = 0; i< category.length; i++) {
@@ -60,10 +64,12 @@
             <td>${brand[i].childNodes[0].nodeValue}</td>
             <td>${country[i].childNodes[0].nodeValue}</td>
             <td>${product[i].childNodes[0].nodeValue}</td>
+            <td>${name[i].childNodes[0].nodeValue}</td>
+            <td>${version[i].childNodes[0].nodeValue}</td>
             <td>
                 <ul>
-                    <li>${name[i].childNodes[0].nodeValue}</li>
                     <li>${price[i].childNodes[0].nodeValue}</li>
+                    <li>${release_date[i].childNodes[0].nodeValue}</li>
                     <li>${description[i].childNodes[0].nodeValue}</li>
                 </ul>
             </td>
